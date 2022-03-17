@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mshe2089
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning computers
-- 💞️ I’m looking to collaborate on computers
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning computer
+- 💞️ I’m looking to collaborate on computer
 - 📫 How to reach me: computer
 
 <!---
